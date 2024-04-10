@@ -14,6 +14,11 @@ Community-curated list of Warpcast actions
 - [Upthumbs](https://warpcast.com/~/add-cast-action?name=Upthumb&icon=thumbsup&actionType=post&postUrl=https://upthumbs.app/api/upthumb) by *horsefacts*: upthumbs functionality. Available via [frame](https://warpcast.com/horsefacts.eth/0x09d647a9).
 - [Invite to Payflow](https://warpcast.com/~/add-cast-action?actionType=post&name=Invite+to+Payflow&icon=person-add&postUrl=https%3A%2F%2Fapi.alpha.payflow.me%2Fapi%2Ffarcaster%2Factions%2Finvite) by [sinaver.eth](https://warpcast.com/sinaver.eth): Invite a user to Payflow.
 ## Tools
+### Translation
+- [To Japanese](https://warpcast.com/~/add-cast-action?actionType=post&icon=typography&name=To%20Japanese&postUrl=https%3A%2F%2Fwarpcast.sh%2Ftranslate%2Fcast%2Fjapanese) by [undefined](https://warpcast.com/undefined)
+- [To Chinese](https://warpcast.com/~/add-cast-action?actionType=post&icon=typography&name=To%20Chinese&postUrl=https%3A%2F%2Fwarpcast.sh%2Ftranslate%2Fcast%2Fchinese) by [undefined](https://warpcast.com/undefined)
+- [To English](https://warpcast.com/~/add-cast-action?actionType=post&icon=typography&name=To%20English&postUrl=https%3A%2F%2Fwarpcast.sh%2Ftranslate%2Fcast%2Fenglish) by [undefined](https://warpcast.com/undefined)
+### Uncategorized
 - [Automod mute](https://warpcast.com/~/add-cast-action?actionType=post&name=Mute&icon=mute&postUrl=https%3A%2F%2Fautomod.sh%2Fapi%2Factions%2Fmute) by [jtgi](https://warpcast.com/jtgi): Mute user on Automod
 - [Automod cooldown](https://warpcast.com/~/add-cast-action?actionType=post&name=24h+Cooldown+&icon=no-entry&postUrl=https%3A%2F%2Fautomod.sh%2Fapi%2Factions%2Fcooldown) by [jtgi](https://warpcast.com/jtgi): Cooldown user on Automod
 - [Automod bypass](https://warpcast.com/~/add-cast-action?actionType=post&name=Bypass+User&icon=shield-check&postUrl=https%3A%2F%2Fautomod.sh%2Fapi%2Factions%2FaddToBypass) by [jtgi](https://warpcast.com/jtgi): Bypass rules on Automod
