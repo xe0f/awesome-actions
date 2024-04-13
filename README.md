@@ -1,5 +1,7 @@
 # awesome-actions
-Community-curated list of Warpcast actions
+> Put on hold: action inventory is here.
+
+Community-curated list of Warpcast actions.
 
 ## Tipping
 - [Tip USDC](https://warpcast.com/~/add-cast-action?actionType=post&name=Tip+%F0%9F%92%B8+%280.01+USDC%29&icon=north-star&postUrl=https%3A%2F%2Ffarcaster.dep.dev%2Fcast-actions%2Ftip-usdc) by [deployer](https://warpcast.com/deployer): Tip USDC via https://ham.fun/
