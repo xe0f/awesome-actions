@@ -14,6 +14,7 @@ Community-curated list of Warpcast actions
 - [Upthumbs](https://warpcast.com/~/add-cast-action?name=Upthumb&icon=thumbsup&actionType=post&postUrl=https://upthumbs.app/api/upthumb) by *horsefacts*: upthumbs functionality. Available via [frame](https://warpcast.com/horsefacts.eth/0x09d647a9).
 - [Invite to Payflow](https://warpcast.com/~/add-cast-action?actionType=post&name=Invite+to+Payflow&icon=person-add&postUrl=https%3A%2F%2Fapi.alpha.payflow.me%2Fapi%2Ffarcaster%2Factions%2Finvite) by [sinaver.eth](https://warpcast.com/sinaver.eth): Invite a user to Payflow.
 - [Generate Mfer-styles art](https://warpcast.com/~/add-cast-action?actionType=post&name=0-%27&icon=meter&postUrl=https%3A%2F%2Fderivative.art%2Fapi%2Fmfers) by undefined
+- [Transform casts into memorable collection](https://go.sendit.city/) by undefined, gami
 ## Tools
 ### Translation
 - [To Japanese](https://warpcast.com/~/add-cast-action?actionType=post&icon=typography&name=To%20Japanese&postUrl=https%3A%2F%2Fwarpcast.sh%2Ftranslate%2Fcast%2Fjapanese) by [undefined](https://warpcast.com/undefined)
